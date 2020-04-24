@@ -8,6 +8,8 @@ tags:
   - 디스가이아
 ---
 
+![disgaea-pc-cover](/assets/images/disgaea-pc-2016-cover-rj30.jpg)
+
 * * *
 # 캐릭터 출현 조건
 
