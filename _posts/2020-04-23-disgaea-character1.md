@@ -3,9 +3,9 @@ title:  "디스가이아1 캐릭터 출현 조건[마인 만드는 법]"
 excerpt: ""
 
 categories:
-  - Game
+  - 디스가이아1
 tags:
-  - 디스가이아
+  - 디스가이아1
 toc: ture
 toc_sticky: true
 toc_label: "페이지 주요 목차"
