@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 ---
 
-![disgaea-pc-cover](/assets/images/disgaea-pc-2016-cover-rj30.jpg)
+![disgaea-pc-cover](/images/disgaea-pc-2016-cover-rj30.jpg)
 
 * * *
 # 캐릭터 출현 조건

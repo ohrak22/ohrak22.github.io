@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 ---
 
-![title](/assets/images/status.PNG)
+![status](./assets/images/disgaea5/status.PNG)
 
 스테이터스 설명  
 ATK: 물리 공격력  
