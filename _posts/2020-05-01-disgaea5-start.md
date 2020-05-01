@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 ---
 
-![title](/assets/images/disgaea5/title.png)
+![title](/assets/images/title.PNG)
 
 엑기스작 하다가 현자타임이 와서 공략을 쓸 겸 플레이를 다시 시작 했습니다.  
 
