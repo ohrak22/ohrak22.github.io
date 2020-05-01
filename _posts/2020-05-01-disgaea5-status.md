@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: "페이지 주요 목차"
 ---
 
-![status](./assets/images/500x300.png)
+![status](/assets/images/disgaea5/status.png)  
 
 ##### 스테이터스  
 ATK: 물리 공격력  
@@ -24,7 +24,6 @@ SPD: 회피
 > 너클의 경우 ATK와 SPD에 의해 대미지가 영향을 받습니다.  
 > 활의 경우 ATK와 HIT에 의해 대미지가 영향을 받습니다.  
 > 총의 경우 HIT와 SPD에 의해 대미지가 영향을 받습니다.  
-> 
 
 MOVE: 이동  
 JUMP: 점프  
