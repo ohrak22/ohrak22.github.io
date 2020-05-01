@@ -94,7 +94,7 @@ analytics:
 # Site Author 저자 소개
 author:
   name             : "존박"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/191015_sb00-145x145.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "게임을 좋아하는 개발자"
   location         : "South Korea"
   email            :
@@ -175,7 +175,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: ENCODING 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
