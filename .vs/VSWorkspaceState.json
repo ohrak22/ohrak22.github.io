@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\css",
-    "\\_authors",
-    "\\_authors\\jill.md",
-    "\\_data",
-    "\\_posts",
-    "\\_sass"
+    "\\game-blog",
+    "\\game-blog\\posts",
+    "\\game-blog\\_includes",
+    "\\game-blog\\_layouts",
+    "\\game-blog\\_posts",
+    "\\posts",
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\game-blog\\_layouts\\post.html",
   "PreviewInSolutionExplorer": false
 }

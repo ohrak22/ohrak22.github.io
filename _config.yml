@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+﻿title:              공략왕
+email:              ohrak22@gmail.compliant
+description:        각종 게임 정보와 공략을 제공하는 블로그 입니다.
+author:             ohrak22
 baseurl:            ""
 url:                "https://ohrak22.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   ohrak22
+github_username:    ohrak22
+facebook_username:  ohrak22
 instagram_username:  
 linkedin_username:
 
